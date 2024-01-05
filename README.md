@@ -2,7 +2,7 @@
 
 You Find Here Solution 💫
 
-Click Here..! [https://professor1416.github.io/Portfolio/](https://professor1416.github.io/Weather-App/)
+Click Here..! [Wheather App](https://professor1416.github.io/Weather-App/)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/traveler_bug14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashantdasnur1416) 
 

@@ -1,0 +1,54 @@
+body {
+    background-color: #333; /* Dark background color for the entire page */
+    color: #fff; /* Light text color */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #444; /* Slightly lighter background color for the container */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #fff; /* Light text color for headings */
+}
+
+input {
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    background-color: #555; /* Darker background color for input */
+    color: #fff; /* Light text color for input */
+    border: 1px solid #666; /* Darker border color */
+}
+
+button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#weatherInfo {
+    margin-top: 20px;
+    color: #fff; /* Light text color for weather information */
+}
+
+#cityName {
+    color: #4caf50; /* Accent color for city name */
+}
